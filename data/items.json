@@ -1,0 +1,14 @@
+{
+"rods": [
+{ "id": "rod_wood", "name": "Kayu Biasa", "tier": 1, "price": 50, "description": "Jalan-jalan di pantai. Cocok buat pemula." },
+{ "id": "rod_fiber", "name": "Fiber Ringan", "tier": 2, "price": 500, "description": "Lebih kuat, buka ikan rarer sedikit." },
+{ "id": "rod_carbon", "name": "Karbon Favorit", "tier": 3, "price": 3000, "description": "Bisa menarik ikan yang lebih besar." },
+{ "id": "rod_titan", "name": "Titanium Legend", "tier": 4, "price": 15000, "description": "Langka, membuka peluang ikan epik." },
+{ "id": "rod_aeon", "name": "Aeon Master", "tier": 5, "price": 75000, "description": "Hanya untuk pemancing terpilih." }
+],
+"baits": [
+{ "id": "bait_worm", "name": "Umpan Cacing", "effect": { "rarityBoost": 0.02 }, "price": 25 },
+{ "id": "bait_shrimp", "name": "Umpan Udang", "effect": { "rarityBoost": 0.05 }, "price": 200 },
+{ "id": "bait_glow", "name": "Umpan Glow", "effect": { "rarityBoost": 0.12 }, "price": 1200 }
+]
+}

@@ -1,0 +1,78 @@
+{
+  "users": {
+    "985555957121679372": {
+      "id": "985555957121679372",
+      "balance": 120,
+      "xp": 4,
+      "level": 0,
+      "inventory": {
+        "rods": [
+          "rod_wood"
+        ],
+        "baits": {}
+      },
+      "equippedRod": "rod_wood",
+      "lastFishAt": 1763539471231
+    },
+    "686126275441721355": {
+      "id": "686126275441721355",
+      "balance": 322115,
+      "xp": 7,
+      "level": 20,
+      "inventory": {
+        "rods": [
+          "rod_wood",
+          "rod_carbon"
+        ],
+        "baits": {}
+      },
+      "equippedRod": "rod_carbon",
+      "lastFishAt": 1763540413835
+    },
+    "852877851581612032": {
+      "id": "852877851581612032",
+      "balance": 120,
+      "xp": 1,
+      "level": 0,
+      "inventory": {
+        "rods": [
+          "rod_wood"
+        ],
+        "baits": {}
+      },
+      "equippedRod": "rod_wood",
+      "lastFishAt": 1763549356220
+    },
+    "597674243035103242": {
+      "id": "597674243035103242",
+      "balance": 120,
+      "xp": 4,
+      "level": 0,
+      "inventory": {
+        "rods": [
+          "rod_wood"
+        ],
+        "baits": {}
+      },
+      "equippedRod": "rod_wood",
+      "lastFishAt": 1763553647999
+    },
+    "721691115677417522": {
+      "id": "721691115677417522",
+      "balance": 2390,
+      "xp": 5,
+      "level": 0,
+      "inventory": {
+        "rods": [
+          "rod_wood",
+          "rod_carbon"
+        ],
+        "baits": {
+          "bait_glow": 2
+        }
+      },
+      "equippedRod": "rod_carbon",
+      "lastFishAt": 1763560809175
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+"fish": [
+{ "id": "spriggle", "name": "Spriggle Ember", "rarity": "common", "minRodTier": 1, "value": 15 },
+{ "id": "glimmersnap", "name": "GlimmerSnap", "rarity": "common", "minRodTier": 1, "value": 20 },
+{ "id": "kelpwhisk", "name": "Kelpwhisk", "rarity": "uncommon", "minRodTier": 2, "value": 85 },
+{ "id": "plodjaw", "name": "Plodjaw Nomad", "rarity": "uncommon", "minRodTier": 2, "value": 100 },
+{ "id": "azurewyrm", "name": "Azure Wyrmlet", "rarity": "rare", "minRodTier": 3, "value": 700 },
+{ "id": "cinderdrift", "name": "Cinder-Drift", "rarity": "rare", "minRodTier": 3, "value": 900 },
+{ "id": "pale-harmonic", "name": "Pale Harmonic", "rarity": "epic", "minRodTier": 4, "value": 5500 },
+{ "id": "void-maw", "name": "Void Maw", "rarity": "legendary", "minRodTier": 5, "value": 25000 }
+],
+"rarityRates": {
+"common": 0.74,
+"uncommon": 0.20,
+"rare": 0.05,
+"epic": 0.009,
+"legendary": 0.001
+}
+}

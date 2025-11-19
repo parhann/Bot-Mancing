@@ -1,6 +1,6 @@
 // fishingbot/config.js
 module.exports = {
-  TOKEN: "MTM4MTA5MTg1NTU0NTkyNTcwMg.GDdKOk.lx7p7nZ5urX2sDGfc55PoaC7G267zzWHLzWKT0",
+  TOKEN: "TOKEN DISINI DISCORD BOT",
   PREFIX: "!",
   DATA_FILE: "./data/players.json",
 
